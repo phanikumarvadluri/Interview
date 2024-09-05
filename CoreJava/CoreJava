@@ -1,0 +1,28 @@
+1)  What is difference between throw and throws keyword?
+
+The throw and throws keywords in Java are both related to exception handling but serve different purposes:
+
+throw Keyword
+The throw keyword is used to explicitly throw an exception from a method or any block of code.
+It is typically used to throw either a checked or unchecked exception, which must be an object of the Throwable class or its subclasses (e.g., Exception, RuntimeException, etc.).
+After executing the throw statement, the execution stops and the exception is propagated up the call stack.
+
+2)  Checked exception vs unchecked exception
+
+3)  try ,catch and finally
+
+4)  How does the try-with-resources statement work in Java?
+
+5)  how to create custom exception,? what is the need of it..
+
+6)  Can we catch multiple exceptions in a single catch block?
+
+7)  What is the use of the finally block in exception handling?
+
+8)  What happens if an exception is not caught in a method?
+
+   The exception is propagated up the call stack to the previous method. If no method catches the exception, it ultimately reaches the JVM, which terminates the program.
+
+9)  What is the difference between final, finally, and finalize in Java?
+
+10) What is the difference between Exception and RuntimeException?
