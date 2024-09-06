@@ -9,6 +9,9 @@ After executing the throw statement, the execution stops and the exception is pr
 
 2)  Checked exception vs unchecked exception
 
+Checked:  checked exception with out try and catch (or) throws keyword it will give compile time error-SQLException
+Unchecked: compiler will not give error: ex: Arthematic Exception
+
 3)  try ,catch and finally
 
 4)  How does the try-with-resources statement work in Java?
@@ -26,3 +29,25 @@ After executing the throw statement, the execution stops and the exception is pr
 9)  What is the difference between final, finally, and finalize in Java?
 
 10) What is the difference between Exception and RuntimeException?
+
+11) Arraylist vs Hashset
+
+12) what is hashmap
+
+13) Internal implementation of arraylist
+
+14) Internal implementation of Hashset
+
+15) Internal implemenation of Hashmap
+
+16) ArrayList vs copyonwritearraylist
+
+17) Hashset vs copyonwritehasset
+
+18) Hashmap vs concurenthashmap?
+
+19) Internal implementation of copyonwritearraylist
+
+20) Internal implementation of copyonwritehasset
+
+21) Internal implemenation of concurenthashmap?
